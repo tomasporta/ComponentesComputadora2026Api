@@ -1,0 +1,6 @@
+@ComponentesComputadoras.WebApi_HostAddress = http://localhost:5106
+
+GET {{ComponentesComputadoras.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
